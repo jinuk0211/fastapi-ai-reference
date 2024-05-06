@@ -1,6 +1,7 @@
 # fastapi-ai-reference
 cogvlm
 vllm
+https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions
 tips
 1.
 uvicorn에는 기존의 비동기 event loop 나 http parser보다 빠른 uvloop이나 httptools가 없어서
