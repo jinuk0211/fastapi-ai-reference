@@ -5,6 +5,11 @@ vllm
 
 stable diffusion
 
+invoke ai
+
+https://github.com/invoke-ai/InvokeAI/tree/main/invokeai%2Fapp%2Fapi
+
+
 https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions
 tips
 1.
