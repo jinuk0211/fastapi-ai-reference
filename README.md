@@ -9,6 +9,9 @@ invoke ai
 
 https://github.com/invoke-ai/InvokeAI/tree/main/invokeai%2Fapp%2Fapi
 
+RDS database to aws 람다
+---------------------------
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-lambda-tutorial.html
 
 https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions
 tips
