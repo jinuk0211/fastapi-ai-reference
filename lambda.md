@@ -1,3 +1,6 @@
+postgresql zip파일
+pip install aws-psycopg2 -t.
+
 step 2 Build and package the Docker image:
 ---------------------------
 docker build -t fastapi-login-service .
