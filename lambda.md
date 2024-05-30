@@ -5,8 +5,18 @@ venv/Scripts/activate.bat
 postgresql zip파일
 
 pip install aws-psycopg2 -t.
+psycopg2==2.9.1
 
-step 2 Build and package the Docker image:
+SQLAlchemy==1.4.23
+
+pydantic==1.8.2
+
+requests==2.26.0
+
+fastapi==0.68.0
+
+
+  step 2 Build and package the Docker image:
 ---------------------------
 docker build -t fastapi-login-service .
 docker run --rm -v $(pwd):/var/task lambci/lambda:build-python3.9 pip install -r requirements.txt -t python
