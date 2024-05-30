@@ -1,4 +1,9 @@
+py -3 -m venv venv
+
+venv/Scripts/activate.bat
+
 postgresql zip파일
+
 pip install aws-psycopg2 -t.
 
 step 2 Build and package the Docker image:
