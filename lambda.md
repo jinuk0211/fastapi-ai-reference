@@ -17,6 +17,8 @@ fastapi==0.68.0
 
 python-jose==3.3.0
 
+ pip install mangum
+
   step 2 Build and package the Docker image:
 ---------------------------
 docker build -t fastapi-login-service .
