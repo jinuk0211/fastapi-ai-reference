@@ -15,6 +15,7 @@ requests==2.26.0
 
 fastapi==0.68.0
 
+python-jose==3.3.0
 
   step 2 Build and package the Docker image:
 ---------------------------
